@@ -1,0 +1,55 @@
+{
+  "navigation": [
+		{
+			"title": "About",
+			"url": "http://www.example.com/about"
+		},
+		{
+			"title": "Projects",
+			"url": "http://www.example.com/portfolio"
+		},
+		{
+			"title": "Contact",
+			"url": "http://www.example.com/contact"
+		}
+	],
+  "hero": {
+    "name": "Sai tharun",
+    "subtitle": "I'm a Final Year CSE Student."
+  },
+  "about": {
+    "title": "About me",
+    "image": "/pfp.jpeg",
+    "primary": "My name is Sai tharun.I am from Hyderabad.I have pursuing my bachelors degree in CSE from Vidya Jyothi Institute of Technology.My strengths are - I am a quick learner and i have strong communication skills.I am always keen to up skill myself by learning new things whenever I get a chance.Currently I want to secure a job in a reputed company and my long term goal is gaining good work experience to work in a senior position.",
+    "secondary": "My hobbies are playing cricket and badminthon"
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Mental Health Sentiment Analysis",
+        "description": "The Mental Health Sentiment Analysis Tool is a Python application that uses Natural Language Processing and sentiment analysis to assess and track emotional states from text data. It classifies sentiments into categories like positive, negative, or neutral and detects specific emotions related to mental health. The tool offers personalized feedback and visualizes trends in emotional states over time. Designed with user privacy in mind, it provides insights to help individuals and support groups understand and manage mental well-being.",
+        "url": "http://www.example.com/project1",
+        "github": "http://www.example.com/github",
+        "image": "/chatbot.jpeg"
+      },
+      {
+				"title": "Movie Recommendation System",
+				"description": "The Movie Recommendation System leverages cosine similarity and machine learning to preprocess and analyze user preferences for personalized movie suggestions. By comparing the similarity between movie features or user profiles, the system generates recommendations tailored to individual tastes. Machine learning techniques enhance data preprocessing, improving the accuracy and relevance of recommendations. This approach helps users discover movies they are likely to enjoy based on their past viewing behavior and preferences.",
+				"url": "http://www.example.com/project2",
+        "github": "http://www.example.com/github",
+				"image": "/movie.jpeg"
+			}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "your-form-id"
+  },
+  "footer": {
+		"linkedin": "https://www.linkedin.com/in/rsaitharun/",
+		"twitter": "SaiThar28531527",
+		"github": "https://github.com/sai-tharun123"
+	}
+}
